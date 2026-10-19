@@ -8,10 +8,8 @@ This project investigates whether the Bitcoin transaction graph structure provid
 
 ## Team Members
 - Maria Jose Alarcon Osuna
-- Daniel Allen
 - Muhammad Niazi
 - Vincenzo Langone
-- Johnathan Lavoie
 
 ## Dataset
 Elliptic Bitcoin Dataset (CC BY-NC-ND 4.0)
